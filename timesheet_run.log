@@ -1,0 +1,17 @@
+2025-10-03 10:06:37,036 ERROR Please set HR_PORTAL_URL, HR_USERNAME, HR_PASSWORD in .env
+2025-10-03 10:15:10,923 ERROR Failed to read Excel: [Errno 2] No such file or directory: 'utilization_template.xlsx'
+2025-10-03 10:15:46,230 INFO ====== WebDriver manager ======
+2025-10-03 10:15:47,050 INFO Get LATEST chromedriver version for google-chrome
+2025-10-03 10:15:48,357 INFO Get LATEST chromedriver version for google-chrome
+2025-10-03 10:15:49,310 INFO There is no [win64] chromedriver "140.0.7339.207" for browser google-chrome "140.0.7339" in cache
+2025-10-03 10:15:49,311 INFO Get LATEST chromedriver version for google-chrome
+2025-10-03 10:15:51,788 INFO WebDriver version 140.0.7339.207 selected
+2025-10-03 10:15:51,793 INFO Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/win32/chromedriver-win32.zip
+2025-10-03 10:15:51,794 INFO About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/win32/chromedriver-win32.zip
+2025-10-03 10:15:52,955 INFO Driver downloading response is 200
+2025-10-03 10:15:55,503 INFO Get LATEST chromedriver version for google-chrome
+2025-10-03 10:15:56,629 INFO Driver has been saved in cache [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\140.0.7339.207]
+2025-10-03 10:23:22,166 INFO ====== WebDriver manager ======
+2025-10-03 10:23:22,984 INFO Get LATEST chromedriver version for google-chrome
+2025-10-03 10:23:24,230 INFO Get LATEST chromedriver version for google-chrome
+2025-10-03 10:23:25,313 INFO Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
